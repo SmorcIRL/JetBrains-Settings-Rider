@@ -13,8 +13,16 @@
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="Git.Commit.Stage" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
+  </action>
+  <action id="Replace" />
   <action id="RiderCollapseToDefinitions">
     <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="RiderUnitTestRunContextTwAction">
+    <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="SilentCodeCleanup">
     <mouse-shortcut keystroke="button4" />
