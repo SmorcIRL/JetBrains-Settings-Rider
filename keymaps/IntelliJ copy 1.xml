@@ -25,11 +25,14 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="shift ctrl space" />
   </action>
+  <action id="RecentFiles" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
-    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
-  <action id="Replace" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="RiderCollapseToDefinitions">
     <mouse-shortcut keystroke="button5" />
   </action>
@@ -41,4 +44,9 @@
     <mouse-shortcut keystroke="button4" />
   </action>
   <action id="SmartTypeCompletion" />
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
 </keymap>
