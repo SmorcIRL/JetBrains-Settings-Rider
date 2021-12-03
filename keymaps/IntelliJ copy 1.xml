@@ -40,6 +40,10 @@
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="RiderUnitTestRunCurrentSessionTwAction" />
+  <action id="SelectNextOccurrence" />
+  <action id="ShowLiveRunConfigurations">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
   <action id="SilentCodeCleanup">
     <mouse-shortcut keystroke="button4" />
   </action>
