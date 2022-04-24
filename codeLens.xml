@@ -1,0 +1,23 @@
+<application>
+  <component name="CodeLensSettings" defaultAnchor="Right">
+    <anchor>
+      <map>
+        <entry key="Burst compiled code" value="Default" />
+        <entry key="Derived symbols" value="Default" />
+        <entry key="F# Inferred types" value="Default" />
+        <entry key="UFunctions implementations" value="Default" />
+        <entry key="UProperties write access" value="Default" />
+        <entry key="Unity Assets Usage" value="Default" />
+        <entry key="Unity implicit usage" value="Default" />
+        <entry key="Unity serialized field" value="Default" />
+        <entry key="Usages" value="Default" />
+        <entry key="VcsAuthorCodeLensProvider" value="Default" />
+      </map>
+    </anchor>
+    <enabled>
+      <map>
+        <entry key="VcsAuthorCodeLensProvider" value="true" />
+      </map>
+    </enabled>
+  </component>
+</application>

@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="ASP.NET Core Certificate Notifications" displayType="NONE" />
+    <notification groupId="IDE and Plugin Updates" displayType="NONE" />
+    <notification groupId="Plugin Update Results" displayType="NONE" />
+    <notification groupId="Unity project open" displayType="NONE" />
+  </component>
+</application>

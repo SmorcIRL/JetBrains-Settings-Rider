@@ -1,0 +1,51 @@
+<keymap version="1" name="IntelliJ copy" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="ChangesView.ToggleCommitUi" />
+  <action id="CheckinProject" />
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="Console.TableResult.DeleteRows" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorDeleteLine" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
+  </action>
+  <action id="Replace" />
+  <action id="RiderUnitTestRunContextTwAction">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="RiderUnitTestRunCurrentSessionTwAction" />
+  <action id="SilentCodeCleanup">
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="SmartTypeCompletion" />
+</keymap>
