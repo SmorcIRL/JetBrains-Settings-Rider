@@ -8,6 +8,23 @@
     <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
   </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="Burst compiled code" value="Default" />
+        <entry key="Derived symbols" value="Default" />
+        <entry key="F# Inferred types" value="Default" />
+        <entry key="UFunctions implementations" value="Default" />
+        <entry key="UProperties write access" value="Default" />
+        <entry key="Unity Assets Usage" value="Default" />
+        <entry key="Unity implicit usage" value="Default" />
+        <entry key="Unity serialized field" value="Default" />
+        <entry key="Usages" value="Default" />
+        <entry key="VcsAuthorCodeLensProvider" value="Default" />
+      </map>
+    </option>
+    <option name="defaultPosition" value="Right" />
+  </component>
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
